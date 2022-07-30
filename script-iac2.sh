@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-echo -e "\e[31m   Atualixzando o servidor ...\e[0m "
+echo -e "\e[31m   Atualinzando o servidor ...\e[0m "
 apt-get update 
 apt-get upgrade -y 
 
